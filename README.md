@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **React, ASP.NET Core**
 
+<h3 align="left">Actually working in:</h3>
+<img src = "Logo-Horizontal.png" alt = "Iteris Consultoria e Software Ltda." width="400" heigth:"250"/>
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wesley-trindade-guarnieri-446350180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley-trindade-guarnieri-446350180/" height="30" width="40" /></a>
