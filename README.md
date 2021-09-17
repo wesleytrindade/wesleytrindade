@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, ASP.NET Core**
 
-<h3 align="left">Actually working in:</h3>
+<h3 align="left">Currently working at:</h3>
 <img src = "Logo-Horizontal.png" alt = "Iteris Consultoria e Software Ltda." width="400" heigth:"250"/>
 <hr/>
 <h3 align="left">Connect with me:</h3>
