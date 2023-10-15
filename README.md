@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleytrindade&label=Profile%20views&color=0e75b6&style=flat" alt="wesleytrindade" /> </p>
 
-- 🌱 I’m currently learning **React, ASP.NET Core**
-
-<h3 align="left">Currently working at:</h3>
-<img src = "Logo-Horizontal.png" alt = "Iteris Consultoria e Software Ltda." width="400" heigth:"250"/>
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
